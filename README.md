@@ -1,4 +1,4 @@
-# Coin-classinfication
+# Coin-classification
 Для запуска кода необходимо:
   1. *data_preparation*
 
